@@ -1,0 +1,2 @@
+# devDNS
+DNS over devRant
